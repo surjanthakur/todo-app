@@ -35,10 +35,6 @@ This is an enhanced version of a To-Do List application, designed to manage task
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 
 - Inspired by simple and functional task management tools.
